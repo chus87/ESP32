@@ -2,7 +2,7 @@
 ciudad indicada a tu bot de Telegram.
 
 **Escanear red y enviar por Telegram** \--\> Hace un ping a toda la red
-y devuelve las IP´s que hayan respondido.
+y devuelve las IP´s que hayan respondido. (La libreria necesaria, se descarga de este repo: https://github.com/dvarrel/ESPping).
 
 **Telemetría por Telegram** \--\> Muestra datos de: IP, MAC, RSSI, Heal
 libre y Uptime.
